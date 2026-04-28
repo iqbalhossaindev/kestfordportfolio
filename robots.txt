@@ -1,6 +1,11 @@
 User-agent: *
 Allow: /
 
+User-agent: Googlebot-Image
+Allow: /logo.png
+Allow: /favicon-48x48.png
+Allow: /apple-touch-icon.png
+
 Sitemap: https://kestford.com/sitemap.xml
 
 # Disallow admin areas if any
